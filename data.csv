@@ -1,0 +1,11 @@
+ID,Nombre,Edad,Profesión,Ubicación,Fecha_Ingreso,Salario,Activo
+1,Ana Pérez,32,Ingeniera,Barcelona,2022-03-15,45000,TRUE
+2,Carlos Gómez,28,Desarrollador,Madrid,2023-06-20,38000,FALSE
+3,Lucía Martínez,45,Abogada,Valencia,2019-11-05,55000,TRUE
+4,Pedro Rodríguez,38,Arquitecto,Sevilla,2021-07-12,48000,TRUE
+5,Marta López,25,Designer,Bilbao,2024-01-05,35000,FALSE
+6,Juan Sánchez,40,Gerente,Alicante,2020-04-25,60000,TRUE
+7,Elena Ruiz,33,Consultora,Granada,2022-09-11,46000,FALSE
+8,David Fernández,50,Profesor,Zaragoza,2018-05-30,51000,TRUE
+9,Laura Gómez,27,Marketing,Palma de Mallorca,2023-02-15,40000,FALSE
+10,José Díaz,29,Contable,Castellón,2021-10-10,37000,TRUE
