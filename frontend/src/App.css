@@ -53,3 +53,12 @@
   padding-left: 64px;
   margin: 16px;
 }
+
+input {
+  width: auto;
+}
+
+button {
+  border: 1px solid #333;
+  border-radius: 100px;
+}
